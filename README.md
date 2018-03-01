@@ -42,7 +42,7 @@ End Sub
 
 1. For Each cell in a range
 ```VBA
-
+For
 ```
 
 ## Shape Process
